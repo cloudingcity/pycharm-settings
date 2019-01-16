@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="tabsHeight" value="40" />
+    <option name="accentColor" value="7cb341" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-61a5f17f:1685718b413:-8000" />
+    <option name="version" value="3.4.0" />
+  </component>
+</application>
