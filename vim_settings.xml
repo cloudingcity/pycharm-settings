@@ -6,11 +6,11 @@
       <file name="/Python Console" timestamp="1547652978596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/python-training/index.py" timestamp="1547991280273">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/Desktop/python-training/index.py" timestamp="1547992102233">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
     </filemarks>
     <jumps />
@@ -22,7 +22,7 @@
         <text encoding="base64">ZGVmIGFhYSgpOgogICAgcHJpbnQoKQogICAgYSA9IDIKICAgIGlmIGEgPT0gMToKICAgICAgICBwcmludCgxMjMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>string[-4]</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
