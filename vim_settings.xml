@@ -6,19 +6,23 @@
       <file name="/Python Console" timestamp="1547652978596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/python-training/index.py" timestamp="1547988960052">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/python-training/index.py" timestamp="1547991280273">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ZnJ1aXRzID0gWydhYWEnLCAnYmJiJ10KZnJ1aXRzMiA9IFsnYWFhJywgJ2JiYiddCmZydWl0czMgPSBmcnVpdHMyCgphc3NlcnQgZnJ1aXRzMyBpcyBmcnVpdHMyCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ZGVmIGFhYSgpOgogICAgcHJpbnQoKQogICAgYSA9IDIKICAgIGlmIGEgPT0gMToKICAgICAgICBwcmludCgxMjMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>string[-4]</text>
       </register>
     </registers>
     <search>
