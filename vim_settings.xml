@@ -6,11 +6,11 @@
       <file name="/Python Console" timestamp="1547652978596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/training/learn-python/requirements.txt" timestamp="1555241255971">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/Desktop/training/learn-python/requirements.txt" timestamp="1555241321717">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/python-training/index.py" timestamp="1547992102233">
         <mark key="[" line="1" column="22" />
@@ -41,6 +41,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
