@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/training/learn-python/src/getting_started/test_variables.py" timestamp="1555248924193">
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/training/learn-python/index.py" timestamp="1555243114061">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
       <file name="/Python Console" timestamp="1547652978596">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,7 +39,7 @@
         <text encoding="base64">ZGVmIGFhYSgpOgogICAgcHJpbnQoKQogICAgYSA9IDIKICAgIGlmIGEgPT0gMToKICAgICAgICBwcmludCgxMjMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
