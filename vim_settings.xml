@@ -8,11 +8,8 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/training/learn-python/index.py" timestamp="1555243114061">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
+      <file name="/Dummy.txt" timestamp="1555252082946">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1547652978596">
         <mark key="[" line="0" column="0" />
@@ -23,23 +20,47 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/training/learn-python/src/data_types/test_strings.py" timestamp="1555251847047" />
+      <file name="$USER_HOME$/Desktop/training/learn-python/src/control_flow/test_for.py" timestamp="1555253871696" />
+      <file name="$USER_HOME$/Desktop/training/learn-python/index.py" timestamp="1555254346867">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/training/learn-python/src/data_types/test_numbers.py" timestamp="1555250675589">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/training/learn-python/src/operators/test_logical.py" timestamp="1555250195742">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+      </file>
       <file name="$USER_HOME$/Desktop/python-training/index.py" timestamp="1547992102233">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/training/learn-python/src/data_types/test_sets.py" timestamp="1555253007481" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZnJ1aXRzID0gWydhYWEnLCAnYmJiJ10KZnJ1aXRzMiA9IFsnYWFhJywgJ2JiYiddCmZydWl0czMgPSBmcnVpdHMyCgphc3NlcnQgZnJ1aXRzMyBpcyBmcnVpdHMyCg==</text>
+        <text encoding="base64">YVswXSA9IDEK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZnJ1aXRzID0gWydhYWEnLCAnYmJiJ10KZnJ1aXRzMiA9IFsnYWFhJywgJ2JiYiddCmZydWl0czMgPSBmcnVpdHMyCgphc3NlcnQgZnJ1aXRzMyBpcyBmcnVpdHMyCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZGVmIGFhYSgpOgogICAgcHJpbnQoKQogICAgYSA9IDIKICAgIGlmIGEgPT0gMToKICAgICAgICBwcmludCgxMjMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>words</text>
       </register>
     </registers>
     <search>
@@ -55,6 +76,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
